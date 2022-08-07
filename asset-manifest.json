@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fluffy-dollop/static/css/main.8a493881.css",
+    "main.js": "/fluffy-dollop/static/js/main.f636eb01.js",
+    "index.html": "/fluffy-dollop/index.html",
+    "main.8a493881.css.map": "/fluffy-dollop/static/css/main.8a493881.css.map",
+    "main.f636eb01.js.map": "/fluffy-dollop/static/js/main.f636eb01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a493881.css",
+    "static/js/main.f636eb01.js"
+  ]
+}
